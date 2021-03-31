@@ -4,7 +4,7 @@
 
 ## I'm a Student, Entrepreneur, Developer, and Traveller!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects & Learn More About Codes
 
