@@ -1,6 +1,6 @@
 ### Hi there, I'm Saransh 👋
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://policykhareedo.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/saransh1712)
+[![Website](https://img.shields.io/website?label=My Website &style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://policykhareedo.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Saransh Arora?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/saransh1712)
 ## I'm a Entrepreneur, Student, Developer, and Explorer!!
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
