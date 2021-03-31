@@ -9,4 +9,4 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects & Learn More About Codes
 
 ### Connect with me:
-[<img align="left" alt="Policykhareedo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://policykhareedo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
