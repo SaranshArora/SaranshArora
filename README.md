@@ -30,12 +30,9 @@
 ### 📺 Latest YouTube Videos
 
  <!-- YOUTUBE:START -->
- - [How to Install My SqlWorkBench](https://www.youtube.com/watch?v=fe4RGPRZO5Q)
- - [🔴 DevOps.js Conference Stream by GitNation // Day 1](https://www.youtube.com/watch?v=SmCvCjDnXMM)
- - [😢 STACKr News Canceled?? This Could Be The Last Issue (STACKr News 2021, Issue #11)](https://www.youtube.com/watch?v=jpox3uizTs8)
- - [10 Things I Wish I Knew Before I Started Programming](https://www.youtube.com/watch?v=x4gu6JGwKAI)
- - [[#10] Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #10)](https://www.youtube.com/watch?v=xDVgpW1tig4)
- - [Top VS Code Updates | v1.54 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=Qj6Jya9APiU)
+ - [How to Install My SqlWorkBench in MacOs](https://www.youtube.com/watch?v=fe4RGPRZO5Q)
+ - [Books For Programming | Must for all Coders | Best Books For Python](https://www.youtube.com/watch?v=vOgPRCbzbDM)
+
  <!-- YOUTUBE:END -->
 
- ➡️ [more videos...](https://youtube.com/codestackr)
+ ➡️ [Watch More : ](https://youtube.com/Saransharoraa)
